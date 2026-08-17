@@ -1,6 +1,6 @@
 # travel-agent
 
-A Claude Code plugin that plans a trip end to end and ships the artifacts you actually use on the
+A plugin that plans a trip end to end and ships the artifacts you actually use on the
 ground: a Word itinerary, per-city site guides with clustered day sequencing, editorial guides mined
 from the travel press, and Google Maps import CSVs where **every pin carries its opening hours, its
 reservation lead time, and its closed days**.
@@ -183,4 +183,4 @@ python skills/travelagent/templates/build_trip.py --demo   # builds all 5 artifa
 
 ## License
 
-MIT. See `LICENSE`.
+o-k-1. See `LICENSE`.
