@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# trip working folders, if anyone builds inside the repo
+trips/
+research/
+scrape/
+intermediates/
+archive/
+MAPS*/
+*.docx
+*.xlsx
+*.csv
+*.psv
+!skills/travelagent/**/*.csv
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

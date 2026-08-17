@@ -1,0 +1,20 @@
+{
+  "name": "travel-agent",
+  "description": "End-to-end trip planner for Claude Code. Fans out research subagents, harvests travel editorial through a paywall proxy, then builds Word itineraries, per-city site guides with clustered day sequencing, and layered Google Maps import CSVs with operating hours and reservation lead times in every pin.",
+  "version": "1.0.0",
+  "author": {
+    "name": "o-k-1"
+  },
+  "homepage": "https://github.com/o-k-1/travel-agent",
+  "repository": "https://github.com/o-k-1/travel-agent",
+  "license": "MIT",
+  "keywords": [
+    "travel",
+    "itinerary",
+    "google-maps",
+    "docx",
+    "research",
+    "subagents",
+    "web-scraping"
+  ]
+}

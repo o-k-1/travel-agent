@@ -1,0 +1,18 @@
+{
+  "name": "travel-agent",
+  "owner": {
+    "name": "o-k-1",
+    "url": "https://github.com/o-k-1"
+  },
+  "metadata": {
+    "description": "Trip planning for Claude Code: research fan-out, editorial harvesting, Word guides, and Google Maps CSV exports with hours and reservation flags",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "travel-agent",
+      "description": "Plan a trip end to end. Dispatches ~10 research subagents, harvests travel editorial (Conde Nast Traveler, NYT 36 Hours, Eater, Michelin), then builds a Word itinerary, per-city site guides, editorial guides, layered Google Maps import CSVs, and a reservation tracker. Every place carries operating hours, a reservation lead-time tag, and closure flags.",
+      "source": "./"
+    }
+  ]
+}
